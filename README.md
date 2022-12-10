@@ -41,15 +41,23 @@ There is only one dependency we need to install - json-server<br>
 ```termainal
 yarn add json-server
 ```
+
 ## Run the Project
 ```terminal''
 json-server --watch db.json
 ```
 
+You should see a file named db.json created in the folder. When you run the server locally, it tries to search for the file (db.json) and if not found, it creates a file on its own with mock JSON data.<br>
+<br>
+It’ll run your server locally on http://localhost:3500<br>
+To change the PORT, go to server.js file and change the port number mentioned there.
+
 ## Dependencies Used
 Name | Version
 --- | ---
 json-server | ^0.17.0
+
+## Visual Representation of Project
 
 ## Resources
 - https://blogs.sap.com/2021/01/14/how-to-create-a-fake-rest-api-with-json-server/
