@@ -65,11 +65,9 @@ json-server | ^0.17.0
 <img width="1440" alt="Screenshot 2022-12-10 at 3 00 54 PM" src="https://user-images.githubusercontent.com/55026380/206843888-6153c9cb-1ea9-46d9-8a71-b49438e4fb41.png">
 
 
-
-
-
-
-
 ## Resources
 - https://blogs.sap.com/2021/01/14/how-to-create-a-fake-rest-api-with-json-server/
 - https://spin.atomicobject.com/2022/06/07/api-json-server/#:~:text=JSON%20Server%20is%20an%20easy,can%20do%20with%20JSON%20Server.
+
+## Contact Me
+kumarsauravsingh1234567890@gmail.com
