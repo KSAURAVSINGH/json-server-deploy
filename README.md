@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href = "stellar-mandazi-188925.netlify.app">JSON-SERVER AS FAKE-API</a>
+  <a href = "https://cold-satin-dedication.glitch.me/">JSON-SERVER AS FAKE-API</a>
 </h1>
 JSON Server is an easy and quick-to-set-up module that you can use to fake or mock an API.
 
