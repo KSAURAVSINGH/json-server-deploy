@@ -1,5 +1,21 @@
-# JSON-SERVER AS FAKE-API
+<h1 align="center">
+  <a href = "stellar-mandazi-188925.netlify.app">JSON-SERVER AS FAKE-API/a>
+</h1>
 JSON Server is an easy and quick-to-set-up module that you can use to fake or mock an API.
+
+# Project Structure
+```terminal
+images/
+.DS_Store
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+db.json
+package.json
+server.js
+yarn.lock
+```
 
 ## Resources
 - https://blogs.sap.com/2021/01/14/how-to-create-a-fake-rest-api-with-json-server/
